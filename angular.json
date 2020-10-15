@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tognola"
+    }
+  },
+  "defaultProject": "tognola",
+  "cli": {
+    "analytics": false
+  }
 }
